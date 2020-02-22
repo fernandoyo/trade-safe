@@ -1,5 +1,5 @@
 # trade-safe
-Google Chrome Extension that helps you safely (or at least try) trade Futures.
+Google Chrome Extension that helps you safely (or at least try) trade BitMex, Deribit and Okex Futures.
 
 Todo:
 
@@ -10,8 +10,11 @@ Reduce Risk Feature:
 Always create a Stop-loss setup.
 
 Probability of Stop-Loss execution based on:
-.: Liquidity
-.: Market Sentiment
+.: Liquidity (order book) 
+
+
+.: Market Sentiment (Bullish vs Bearish 15 min timeframe)
+
 
 Extra Features.
 
