@@ -1,1 +1,16 @@
 
+{
+  "manifest_version": 1,
+
+  "name": "Safex - Trade Safe",
+  "description": "This extension limits your risk while trading on bitmex futures",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
